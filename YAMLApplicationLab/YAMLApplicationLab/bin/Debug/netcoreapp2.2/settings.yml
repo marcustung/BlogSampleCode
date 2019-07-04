@@ -1,0 +1,7 @@
+Logging:
+  LogLevel:
+Default: Warning
+AllowedHosts: "*"
+Account:
+  Name: Marcus
+  Title: This is a book from Yaml config.

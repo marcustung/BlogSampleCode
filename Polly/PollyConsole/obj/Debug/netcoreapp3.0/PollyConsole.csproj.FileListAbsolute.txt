@@ -1,0 +1,15 @@
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\PollyConsole.exe
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\obj\Debug\netcoreapp3.0\PollyConsole.csprojAssemblyReference.cache
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\obj\Debug\netcoreapp3.0\PollyConsole.csproj.CoreCompileInputs.cache
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\obj\Debug\netcoreapp3.0\PollyConsole.AssemblyInfoInputs.cache
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\obj\Debug\netcoreapp3.0\PollyConsole.AssemblyInfo.cs
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\PollyConsole.deps.json
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\PollyConsole.runtimeconfig.json
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\PollyConsole.runtimeconfig.dev.json
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\PollyConsole.dll
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\PollyConsole.pdb
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\Polly.dll
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\obj\Debug\netcoreapp3.0\PollyConsole.csproj.CopyComplete
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\obj\Debug\netcoreapp3.0\PollyConsole.dll
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\obj\Debug\netcoreapp3.0\PollyConsole.pdb
+C:\Users\marcustung\source\repos\PollyConsole\PollyConsole\bin\Debug\netcoreapp3.0\JitterMagic.dll
